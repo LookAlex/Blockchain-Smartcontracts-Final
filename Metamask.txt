@@ -1,0 +1,6 @@
+Backup phrase
+skull spice wink inmate rescue embrace another harbor vivid market obvious obtain
+contract like class 
+uint-unsigned integer
+bool[100][100] public grid//100 by 100 booleans 
+address contract
